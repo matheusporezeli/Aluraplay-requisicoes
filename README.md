@@ -10,7 +10,7 @@ Página inicial e formulário de cadastro de vídeos da AluraPlay, uma plataform
 
 ### Tela Inicial
 
-![](https://imgur.com/aymxEsh.png#vitrinedev)
+![](https://imgur.com/e7R1bb7#vitrinedev)
 
 ### Formulário
 
